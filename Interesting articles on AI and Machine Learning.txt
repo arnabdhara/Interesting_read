@@ -1,0 +1,3 @@
+Interesting articles on Machine Learning and AI
+
+http://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets
